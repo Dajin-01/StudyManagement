@@ -1,4 +1,4 @@
-# 📱 StudySmart
+# 📱 StudyManagement
 
 A modern Android study-tracking app built with **Kotlin, Jetpack Compose, Room, Hilt**, and a clean MVVM architecture.  
 StudySmart helps students organize their subjects, manage tasks, track study sessions, and monitor long-term learning progress with an intuitive dashboard.
